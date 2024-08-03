@@ -1,0 +1,2 @@
+secure chatting services- messing application like whatsapp ,telegram and singnal use 
+end to end encryption ensuring only the sender and receiver can read message.
